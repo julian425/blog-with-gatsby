@@ -231,3 +231,5 @@ This paragraph has some `code` in it.
 ![Alt Text](https://via.placeholder.com/150 "Image Title")
 
     ![Alt Text](https://placehold.it/200x50 "Image Title")
+
+![Alt Text](http://test.grint.ru/upload/iblock/78d/78d926e238787716dac7406afae67110.png "Image Title")
